@@ -16,3 +16,12 @@
 3. Look at your top entry/exit pages
 4. Look at bounce rates on your top entry/ exit pages
 5. Set up and study your goal funnels
+
+## Important KPI's
+1. Traffic/unique sessions
+1. Conversions rate
+1. Bounce rate
+1. exit rate
+1. Average time on website
+1. Average page views
+1. CTR
