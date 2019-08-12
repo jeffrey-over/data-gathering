@@ -10,7 +10,7 @@
 1. HotJar
 1. Hubspot
 
-## Analyse
+## Key areas to analyse
 1. Set up your goal
 2. Look at your traffic sources and list them by conversions
 3. Look at your top entry/exit pages
