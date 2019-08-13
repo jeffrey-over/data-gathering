@@ -24,4 +24,11 @@
 1. exit rate
 1. Average time on website
 1. Average page views
-1. CTR
+
+## Key takeaways
+- your never done testing
+- guesses and hunches are great starting places but..:
+- data rules - dont let opinions get in the way of facts
+- the spray and pray philosophy is not a plan or legitimate strategy
+- Spending more on advertising without removing the barriers in your conversion funnel first is literally pouring money down the drain.
+- test everything. just not all at once.
